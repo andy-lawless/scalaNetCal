@@ -1,0 +1,25 @@
+# sbt build artifacts
+target/
+.sbt/
+project/target/
+project/project/
+.scala-build/
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# Compiled files
+*.class
+*.jar
+
+# Metals-specific files
+.metals/
+metals.sbt
+.bloop/
+.bsp/
+
+.DS_STORE
