@@ -1,6 +1,6 @@
 # SubnetCalculator
 
-A Scala-based tool to calculate usable IP addresses from a CIDR subnet mask. Built as demo project for learning scala operation and syntaz
+A Scala-based tool to calculate usable IP addresses from a CIDR subnet mask. Built as demo project for learning scala operations and syntax
 
 ## Features
 - Calculates usable IPs from a CIDR value (e.g., /24 → 254 IPs).
