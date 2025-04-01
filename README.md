@@ -1,4 +1,4 @@
-# SubnetCalculator
+# scalaNetCal SubnetCalculator
 
 A Scala-based tool to calculate usable IP addresses from a CIDR subnet mask. Built as demo project for learning scala operations and syntax
 
